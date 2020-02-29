@@ -9,7 +9,7 @@ export default {
   name: "MyContent",
   data() {
     return {
-      msg: "MyContent"
+      msg: "MyContent123"
     };
   }
 };
